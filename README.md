@@ -39,10 +39,10 @@ El equipo trabaja con diversas herramientas y tecnologías para desarrollar solu
 - **[Felipe Guerrero Salvatierra]()** – Subgerente de Inmobiliaira Costanera Pacífico Spa  
   *Lider del Equipo de Sistemas y Control de Gestión.*
   
-- **[Luis Pizarro álvarez](https://github.com/LuisPizarro04)** – Encargado de Desarrollo SIA y TI  
+- **[Luis Pizarro Álvarez](https://github.com/LuisPizarro04)** – Encargado de Desarrollo SIA y TI  
   *Especialista en desarrollo de software, optimización de procesos y análisis de datos.*
 
-- **[Rocio Flores](https://github.com/LuisPizarro04)** – Ingeniera Informática   
+- **[Rocio Flores Muñoz](https://github.com/LuisPizarro04)** – Ingeniera Informática   
   *Encargada de desarrollar reportes BI y Scripts de Automatización de reportes*
 
 
