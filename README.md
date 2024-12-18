@@ -35,13 +35,14 @@ El equipo trabaja con diversas herramientas y tecnologías para desarrollar solu
 - **[Reportes BI]:** Reportes de diferentes áreas de la empresa. (Debes solicitar acceso al equipo TI)
 
 ## Miembros del equipo
-- **Felipe Guerrero Salvatierra fguerrero@icpacifico.cl** – Subgerente de Inmobiliaira Costanera Pacífico Spa 
-  *Lider del Equipo de Sistemas y Control de Gestión.*
 
-- **[Luis Pizarro álvarez](https://github.com/LuisPizarro04) lpizarro@icpacifico.cl**  – Encargado de Desarrollo SIA y TI  
+- **[Felipe Guerrero Salvatierra]()** – Subgerente de Inmobiliaira Costanera Pacífico Spa  
+  *Lider del Equipo de Sistemas y Control de Gestión.*
+  
+- **[Luis Pizarro álvarez](https://github.com/LuisPizarro04)** – Encargado de Desarrollo SIA y TI  
   *Especialista en desarrollo de software, optimización de procesos y análisis de datos.*
 
-- **[Rocio Flores](https://github.com/RocioFloresMunoz) rflores@icpacifico.cl** – Ingeniera Informática   
+- **[Rocio Flores](https://github.com/LuisPizarro04)** – Ingeniera Informática   
   *Encargada de desarrollar reportes BI y Scripts de Automatización de reportes*
 
 
