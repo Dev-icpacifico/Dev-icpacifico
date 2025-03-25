@@ -30,6 +30,7 @@ El equipo trabaja con diversas herramientas y tecnologías para desarrollar solu
 
 ## Proyectos actuales
 
+- **[AmparoGraph](https://github.com/Dev-icpacifico/AmparoGraph):** AmparoGraph Es un sistema de inteligencia artificial multi-agente de tipo suvervisor que actualmente estamos desarrollando usando tecnologías como LangChain, LangGraph y LangSmith. Este sistema permitirá apoyar las gestiones del depto de RRHH.
 - **[Sistema de Lineas d Balance de Obra LOBMS](https://github.com/Dev-icpacifico/Linea-De-Balances):** Un sistema integral para gestionar las lineas de balance de obra de la construcción de edificios.
 - **[Sistema LPSM](https://github.com/Dev-icpacifico/LPSM):** Un sistema integral para gestionar la planificación de los proyectos. (En Desarrollo)
 - **[Reportes BI]:** Reportes de diferentes áreas de la empresa. (Debes solicitar acceso al equipo TI)
