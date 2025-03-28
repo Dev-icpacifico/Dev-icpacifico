@@ -43,9 +43,6 @@ El equipo trabaja con diversas herramientas y tecnologías para desarrollar solu
 - **[Luis Pizarro Álvarez](https://github.com/LuisPizarro04)** – Encargado de Desarrollo SIA y TI  
   *Especialista en desarrollo de software, optimización de procesos y análisis de datos.*
 
-- **[Rocio Flores Muñoz](https://github.com/LuisPizarro04)** – Ingeniera Informática   
-  *Encargada de desarrollar reportes BI y Scripts de Automatización de reportes*
-
 
 ## Contacto
 
